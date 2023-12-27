@@ -1,0 +1,11 @@
+Voici les librairies à installer avant de lancer le code
+
+pip install wbgapi
+pip install requests
+pip install plotly
+pip install pandas
+pip install matplotlib
+pip install numpy
+pip install seaborn
+pip install scikit-learn
+pip install scikit-learn
